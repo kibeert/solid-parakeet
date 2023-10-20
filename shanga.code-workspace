@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "shanga",
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/templatemo_567_nomad_force/templatemo_567_nomad_force/css"
+		},
+		{
+			"path": "../../../Downloads/templatemo_567_nomad_force/templatemo_567_nomad_force/fonts"
+		},
+		{
+			"path": "../../../Downloads/templatemo_567_nomad_force/templatemo_567_nomad_force/images"
+		},
+		{
+			"path": "../../../Downloads/templatemo_567_nomad_force/templatemo_567_nomad_force/js"
+		},
+		{
+			"path": "../../../Downloads/templatemo_567_nomad_force/templatemo_567_nomad_force/videos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shanga"
+	}
+}
